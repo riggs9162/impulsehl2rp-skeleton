@@ -1,0 +1,7 @@
+"impulsehl2rp"
+{
+	"base"			"impulse"
+	"title"			"impulse: Half-Life 2 Roleplay"
+	"author"		"Riggs"
+	"menusystem"	"1"
+}

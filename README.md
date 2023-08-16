@@ -1,25 +1,11 @@
-© 2i games. All rights reserved. All trademarks are property of their respective owners in the UK and other countries.
-© vanilla Studios. All rights reserved. All trademarks are property of their respective owners in the UK and other countries.
-
-<p align="center">
-	<img src="https://raw.githubusercontent.com/vanillastudios-gmod/impulseenhanced-media/main/impulseSkeletonSchema.png" alt="impulse: Enhanced" />
-</p>
-
 # Welcome to impulse: Enhanced - Skeleton Schema
-This repository contains basic files to use impulse: Enhanced framework. This repository is a template - you can create your own repo without much hassle.
+This repository contains basic Half-Life 2 Roleplay files to use impulse framework or the impulse Enhanced framework. *Keep in mind that this Schema is *unfinished!**
 
-## Working with impulse
-[Check out the docs](https://avxsb.github.io/impulseenhanced). If you want to just get started read the ['Installing impulse: Enhanced' guide]([https://vingard.github.io/impulsedocs/topics/10-devsetup.md.htm](https://avxsb.github.io/impulseenchanced)l). Most of the framework features are or will be documented, so it's easy for you to get started.
+## impulse
+[impulse](https://github.com/aLoneWitness/impulse) is a Semi-Serious roleplay framework for Garry's Mod.
 
-## Skeleton Schema
-This schema demonstrates basic functionality, used as a base to build different schema types.
-Required content: https://steamcommunity.com/sharedfiles/filedetails/?id=1689357640
+## impulse: Enhanced
+[impulse: Enhanced](https://github.com/impulseenhanced/framework) is a fork, unofficial maintained version of impulse.
 
-## Licensing
-Read the full license in the 'LICENSE' file.
-
-## Contributing
-You can contribute to impulse: Enhanced by making a pull request.
-
-## Copyright
-impulse was originally developed by vingard @ 2i.games. impulse: Enhanced is a refresh of the said framework, developed under vanilla Studios.
+## Note
+It's recommended to advise against using any Landis Code, it can harm you with legal troubles and most likely is filled with backdoors. Stick to the linked ones instead. Also don't use leaked code, it's shit either way.

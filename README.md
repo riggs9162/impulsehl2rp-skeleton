@@ -1,5 +1,7 @@
-# Welcome to impulse: Enhanced - Skeleton Schema
-This repository contains basic Half-Life 2 Roleplay files to use impulse framework or the impulse Enhanced framework. *Keep in mind that this Schema is *unfinished!**
+# Welcome to impulse: HL2 RP Skeleton Schema
+This repository contains basic Half-Life 2 Roleplay files to use impulse framework or the impulse Enhanced framework. * Keep in mind that this Schema is* **unfinished!**
+
+## Installation, assuming you know how to code, rename the folder witih the gamemodes folder from **impulsehl2rp-skeleton**, to **impulsehl2rp**.
 
 ## impulse
 [impulse](https://github.com/aLoneWitness/impulse) is a Semi-Serious roleplay framework for Garry's Mod.
